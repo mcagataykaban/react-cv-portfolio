@@ -7,7 +7,7 @@
 -preview project from browser http://localhost.com/3000
 
 *usage
-use your own information
+-use your own information
 
 - /src/containers/---LeftSide
                    --RightSide
